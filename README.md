@@ -8,7 +8,11 @@ Demo de como utilizar FASTAPI con Aerich, Tortoise_ORM, PostgreSQL &amp; "FastAP
   * <https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html#example-fastapi>
 
 * Read tortoise/aerich documentation to understand how to make migrations, migrate, etc.
+  * <https://tortoise-orm.readthedocs.io/en/latest/migration.html?highlight=AERICH>
   * <https://github.com/tortoise/aerich#init-db>
 
 * Read FastAPI CRUD Router documentation to understan how to make quick routes, overload functions, etc.
   * <https://fastapi-crudrouter.awtkns.com/backends/tortoise/>
+
+* Handle registration in FastAPI and Tortoise ORM
+  * <https://levelup.gitconnected.com/handle-registration-in-fastapi-and-tortoise-orm-2dafc9325b7a>  
